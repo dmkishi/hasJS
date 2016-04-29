@@ -1,5 +1,5 @@
 /* Most minimal JavaScript detector.
- * Replaces '.no-js' with '.js' in the html tag.
+ * Just replaces '.no-js' with '.js' in the HTML tag.
  */
 (function() {
   var html = document.getElementsByTagName('html')[0];
