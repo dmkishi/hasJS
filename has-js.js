@@ -1,4 +1,4 @@
-/* Minimal JavaScript detector.
+/* Most minimal JavaScript detector.
  * Replaces '.no-js' with '.js' in the html tag.
  */
 (function() {
