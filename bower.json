@@ -1,11 +1,10 @@
 {
-  "name": "has-js",
+  "name": "hasJS",
   "description": "Most minimal JavaScript detector",
   "authors": [
     "DM Kishi <dm.kishi@gmail.com>"
   ],
   "moduleType": [],
-  "homepage": "https://bitbucket.org/nasa-ae/has-js/",
   "private": true,
   "ignore": [
     "**/.*",

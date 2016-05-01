@@ -1,3 +1,3 @@
-# has-js.js
+# hasJS.js
 
-Most minimal JavaScript detector. Just replaces '.no-js' with '.js' in the HTML tag.
+Most minimal JavaScript detector. Replaces '.no-js' with '.js' in the HTML tag, and that's it.
