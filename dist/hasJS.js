@@ -1,4 +1,4 @@
-/* hasJS v1.0.9 (2016-05-04T18:35:04.547Z)
+/* hasJS v1.0.10 (2016-05-04T18:42:33.651Z)
  * Most basic JavaScript detector. Replaces '.no-js' with '.js' in the HTML tag, and that's it.
  * <https://github.com/dmkishi/hasJS>
  */
