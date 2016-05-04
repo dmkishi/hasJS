@@ -1,9 +1,7 @@
 {
   "name": "hasJS",
   "description": "Most basic JavaScript detector. Replaces '.no-js' with '.js' in the HTML tag, and that's it.",
-  "authors": [
-    "DM Kishi <dm.kishi@gmail.com>"
-  ],
+  "homepage": "https://github.com/dmkishi/hasJS",
   "moduleType": [],
   "private": true,
   "ignore": [
